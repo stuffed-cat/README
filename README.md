@@ -1,10 +1,12 @@
-# hello world. this is good today
+# Hello World  
+This is a good day today.
 
-Hi, my name is Stuffed-Cat. You can also call me Hanxi-Cat.
-I'm is come form china on Community Developers
+Hi, my name is Stuffed-Cat (also known as Hanxi-Cat).  
+I am from China and work in community development.
 
-## about me
+## About Me  
 
-I love TypeScript.  Welcome to my company and blog look.
-rust and ts is best language in the world
-I'm studying English and Japanese.
+- I love TypeScript.  
+- Visit my company's website and blog.  
+- Rust and TypeScript are my favorite languages in the world.  
+- I'm currently studying English and Japanese to improve my skills.
